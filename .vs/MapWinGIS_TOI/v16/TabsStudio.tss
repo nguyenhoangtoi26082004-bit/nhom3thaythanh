@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Form1.cs</string>
+      <string>D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Form1.cs</string>
+      <string>D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Form1.Designer.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\.gitignore</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>
