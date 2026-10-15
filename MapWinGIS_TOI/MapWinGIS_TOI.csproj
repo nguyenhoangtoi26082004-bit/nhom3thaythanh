@@ -103,37 +103,57 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AttributeTableForm.cs">
+    <Compile Include="01_GiaoDien\GiaoDienHeThong.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="AttributeTableForm.Designer.cs">
+    <Compile Include="02_BanDoGIS\BanDoDuLieuGIS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="02_BanDoGIS\BanDoGIS_TuDongNapDuLieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="02_BanDoGIS\BangDieuKhienLopGIS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="05_QuanLyDuLieu\AttributeTableForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="05_QuanLyDuLieu\AttributeTableForm.Designer.cs">
       <DependentUpon>AttributeTableForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="AttributeTableService.cs" />
-    <Compile Include="AttributeTableWorkflow.cs">
+    <Compile Include="05_QuanLyDuLieu\AttributeTableService.cs" />
+    <Compile Include="05_QuanLyDuLieu\AttributeTableWorkflow.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="BufferTools.cs">
+    <Compile Include="02_BanDoGIS\BufferTools.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="DataQualityForm.cs">
+    <Compile Include="01_GiaoDien\ChuanHoaGiaoDienV2.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="DataQualityForm.Designer.cs">
+    <Compile Include="05_QuanLyDuLieu\QuanLyDuLieuControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="07_QuanTriHeThong\DataQualityForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="07_QuanTriHeThong\DataQualityForm.Designer.cs">
       <DependentUpon>DataQualityForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="DataQualityService.cs" />
-    <Compile Include="DataQualityWorkflow.cs">
+    <Compile Include="07_QuanTriHeThong\DataQualityService.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Editing.cs">
+    <Compile Include="07_QuanTriHeThong\DataQualityWorkflow.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="EditingService.cs" />
-    <Compile Include="EditObjectForm.cs">
+    <Compile Include="05_QuanLyDuLieu\Editing.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="EditObjectForm.Designer.cs">
+    <Compile Include="05_QuanLyDuLieu\EditingService.cs" />
+    <Compile Include="05_QuanLyDuLieu\EditObjectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="05_QuanLyDuLieu\EditObjectForm.Designer.cs">
       <DependentUpon>EditObjectForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Form1.cs">
@@ -142,84 +162,102 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="LayerManager.cs">
+    <Compile Include="02_BanDoGIS\LayerManager.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="LayerRequirement.cs">
+    <Compile Include="02_BanDoGIS\LayerRequirement.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Map.cs">
+    <Compile Include="02_BanDoGIS\Map.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Measure.cs">
+    <Compile Include="02_BanDoGIS\Measure.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Menu.cs">
+    <Compile Include="01_GiaoDien\Menu.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="MilitaryTheme.cs" />
-    <Compile Include="Navigation.cs">
+    <Compile Include="01_GiaoDien\MilitaryTheme.cs" />
+    <Compile Include="01_GiaoDien\Navigation.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ObjectInfoPanel.cs">
+    <Compile Include="07_QuanTriHeThong\NhatKyHeThongModule.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="PostGIS.cs">
+    <Compile Include="02_BanDoGIS\ObjectInfoPanel.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="PostGISGeometryRepository.cs" />
-    <Compile Include="PostGISRepository.cs" />
-    <Compile Include="ProfessionalUI.cs">
+    <Compile Include="03_CoSoDuLieu\PostGIS.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Query.cs">
+    <Compile Include="03_CoSoDuLieu\PostGISGeometryRepository.cs" />
+    <Compile Include="03_CoSoDuLieu\PostGISRepository.cs" />
+    <Compile Include="01_GiaoDien\ProfessionalUI.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Program.cs" />
+    <Compile Include="05_QuanLyDuLieu\QuanLyDuLieuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="02_BanDoGIS\Query.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="00_KhoiDong\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="QuickSearchWorkflow.cs">
+    <Compile Include="04_TraCuu\QuickSearchWorkflow.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="SatelliteBasemap.cs">
+    <Compile Include="02_BanDoGIS\SatelliteBasemap.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="SpatialQueryForm.cs">
+    <Compile Include="06_PhanTichThongKe\SpatialQueryForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="SpatialQueryForm.Designer.cs">
+    <Compile Include="06_PhanTichThongKe\SpatialQueryForm.Designer.cs">
       <DependentUpon>SpatialQueryForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="SpatialQueryIntegration.cs">
+    <Compile Include="06_PhanTichThongKe\SpatialQueryIntegration.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="SpatialQueryService.cs" />
-    <Compile Include="StatusBar.cs">
+    <Compile Include="06_PhanTichThongKe\SpatialQueryService.cs" />
+    <Compile Include="01_GiaoDien\StatusBar.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ToolsBridge.cs">
+    <Compile Include="06_PhanTichThongKe\ThongKeBaoCaoModule.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ToolsForm.cs">
+    <Compile Include="01_GiaoDien\TongQuanControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="01_GiaoDien\TongQuanIntegration.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="UnitDetailForm.cs">
+    <Compile Include="02_BanDoGIS\ToolsBridge.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="UnitDetailForm.Designer.cs">
+    <Compile Include="02_BanDoGIS\ToolsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="04_TraCuu\UnitDetailForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="04_TraCuu\UnitDetailForm.Designer.cs">
       <DependentUpon>UnitDetailForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="UnitDetailService.cs" />
-    <Compile Include="UnitSearchForm.cs">
+    <Compile Include="04_TraCuu\UnitDetailService.cs" />
+    <Compile Include="04_TraCuu\UnitSearchForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="UnitSearchForm.Designer.cs">
+    <Compile Include="04_TraCuu\UnitSearchForm.Designer.cs">
       <DependentUpon>UnitSearchForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="UnitSearchIntegration.cs">
+    <Compile Include="04_TraCuu\UnitSearchIntegration.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="UnitSearchService.cs" />
-    <Compile Include="ZoomSlider.cs">
+    <Compile Include="04_TraCuu\UnitSearchService.cs" />
+    <Compile Include="01_GiaoDien\ZoomSlider.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TraCuuDuLieuForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <EmbeddedResource Include="Form1.resx">
@@ -318,5 +356,6 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

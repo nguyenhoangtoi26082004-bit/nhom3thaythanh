@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.37530.7
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapWinGIS_TOI", "MapWinGIS_TOI\MapWinGIS_TOI.csproj", "{466DC71A-C168-44B5-A278-82A0D17AFD9C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapWinGIS_TOI", "MapWinGIS_TOI.csproj", "{466DC71A-C168-44B5-A278-82A0D17AFD9C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +26,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {49DA6129-26BE-48F3-97B1-4A6B7B8AD18D}
+		SolutionGuid = {B6E394C6-AEA6-4B02-92F2-40AB89AF4A54}
 	EndGlobalSection
 EndGlobal

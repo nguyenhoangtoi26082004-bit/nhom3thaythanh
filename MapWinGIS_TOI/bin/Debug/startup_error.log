@@ -1456,3 +1456,921 @@
 2026-10-08 16:50:31.688 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
 2026-10-08 16:50:41.682 | StopHanoiOnlyMap: completed
 2026-10-08 16:50:41.758 | ===== END APPLICATION =====
+2026-10-08 19:07:34.544 | ===== START APPLICATION =====
+2026-10-08 19:07:34.546 | Process bitness: 32-bit
+2026-10-08 19:07:35.366 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-08 19:07:35.394 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-08 19:07:35.395 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-08 19:07:35.395 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-08 19:07:35.395 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-08 19:07:35.395 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-08 19:07:35.398 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-08 19:07:35.399 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-08 19:07:35.399 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-08 19:07:35.399 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-08 19:07:35.399 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-08 19:07:35.400 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-08 19:07:35.508 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-08 19:07:35.512 | LoadLocalBasemap ZoomToLayer OK
+2026-10-08 19:07:35.513 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-08 19:07:35.514 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-08 19:18:53.288 | ===== START APPLICATION =====
+2026-10-08 19:18:53.290 | Process bitness: 32-bit
+2026-10-08 19:18:54.454 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-08 19:18:54.483 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-08 19:18:54.484 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-08 19:18:54.484 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-08 19:18:54.484 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-08 19:18:54.485 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-08 19:18:54.487 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-08 19:18:54.488 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-08 19:18:54.488 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-08 19:18:54.488 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-08 19:18:54.488 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-08 19:18:54.488 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-08 19:18:54.589 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-08 19:18:54.595 | LoadLocalBasemap ZoomToLayer OK
+2026-10-08 19:18:54.596 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-08 19:18:54.596 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-08 19:18:57.289 | StopHanoiOnlyMap: completed
+2026-10-08 19:18:57.401 | ===== END APPLICATION =====
+2026-10-08 20:31:08.700 | ===== START APPLICATION =====
+2026-10-08 20:31:08.701 | Process bitness: 32-bit
+2026-10-08 20:31:12.249 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-08 20:31:12.320 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-08 20:31:12.320 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-08 20:31:12.320 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-08 20:31:12.320 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-08 20:31:12.320 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-08 20:31:12.322 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-08 20:31:12.322 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-08 20:31:12.322 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-08 20:31:12.322 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-08 20:31:12.323 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-08 20:31:12.323 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-08 20:31:12.651 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-08 20:31:12.653 | LoadLocalBasemap ZoomToLayer OK
+2026-10-08 20:31:12.653 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-08 20:31:12.653 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-14 12:35:13.967 | ===== START APPLICATION =====
+2026-10-14 12:35:13.969 | Process bitness: 32-bit
+2026-10-14 12:35:18.799 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-14 12:35:18.884 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 12:35:18.884 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 12:35:18.885 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 12:35:18.885 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 12:35:18.885 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 12:35:18.889 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 12:35:18.889 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 12:35:18.889 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 12:35:18.889 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 12:35:18.889 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 12:35:18.889 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 12:35:19.329 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 12:35:19.332 | LoadLocalBasemap ZoomToLayer OK
+2026-10-14 12:35:19.333 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 12:35:19.333 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-14 12:35:25.736 | StopHanoiOnlyMap: completed
+2026-10-14 12:35:25.842 | ===== END APPLICATION =====
+2026-10-14 13:01:09.826 | ===== START APPLICATION =====
+2026-10-14 13:01:09.829 | Process bitness: 32-bit
+2026-10-14 13:01:10.872 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-14 13:01:10.896 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:01:10.896 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:01:10.896 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:01:10.896 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:01:10.896 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:01:10.901 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:01:10.901 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:01:10.901 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:01:10.903 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:01:10.903 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:01:10.903 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:01:10.993 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:01:11.001 | LoadLocalBasemap ZoomToLayer OK
+2026-10-14 13:01:11.001 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:01:11.002 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-14 13:01:15.933 | StopHanoiOnlyMap: completed
+2026-10-14 13:01:16.052 | ===== END APPLICATION =====
+2026-10-14 13:44:06.114 | ===== START APPLICATION =====
+2026-10-14 13:44:06.117 | Process bitness: 32-bit
+2026-10-14 13:44:07.050 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-14 13:44:07.071 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:44:07.071 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:44:07.071 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:44:07.071 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:44:07.071 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:44:07.077 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:44:07.078 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:44:07.078 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:44:07.078 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:44:07.078 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:44:07.078 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:44:07.166 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:44:07.166 | LoadLocalBasemap ZoomToLayer OK
+2026-10-14 13:44:07.166 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:44:07.166 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-14 13:44:10.514 | StopHanoiOnlyMap: completed
+2026-10-14 13:44:10.672 | ===== END APPLICATION =====
+2026-10-14 13:44:12.871 | ===== START APPLICATION =====
+2026-10-14 13:44:12.871 | Process bitness: 32-bit
+2026-10-14 13:44:13.660 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-14 13:44:13.665 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:44:13.665 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:44:13.665 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:44:13.665 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:44:13.665 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:44:13.672 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:44:13.672 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:44:13.672 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:44:13.672 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:44:13.672 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:44:13.672 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:44:13.681 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:44:13.688 | LoadLocalBasemap ZoomToLayer OK
+2026-10-14 13:44:13.688 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:44:13.688 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-14 13:45:54.939 | StopHanoiOnlyMap: completed
+2026-10-14 13:45:55.184 | ===== END APPLICATION =====
+2026-10-14 13:57:07.626 | ===== START APPLICATION =====
+2026-10-14 13:57:07.628 | Process bitness: 32-bit
+2026-10-14 13:57:08.998 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-14 13:57:09.019 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:57:09.021 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:57:09.021 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:57:09.021 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:57:09.021 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:57:09.024 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:57:09.024 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:57:09.024 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:57:09.024 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:57:09.024 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:57:09.025 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:57:09.130 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:57:09.133 | LoadLocalBasemap ZoomToLayer OK
+2026-10-14 13:57:09.134 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 13:57:09.134 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-14 14:12:44.893 | ===== START APPLICATION =====
+2026-10-14 14:12:44.895 | Process bitness: 32-bit
+2026-10-14 14:12:46.170 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-14 14:12:46.182 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 14:12:46.182 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 14:12:46.182 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 14:12:46.182 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 14:12:46.182 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 14:12:46.184 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 14:12:46.184 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 14:12:46.184 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 14:12:46.184 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 14:12:46.184 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 14:12:46.184 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 14:12:46.209 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 14:12:46.212 | LoadLocalBasemap ZoomToLayer OK
+2026-10-14 14:12:46.213 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 14:12:46.213 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-14 14:19:13.531 | ===== START APPLICATION =====
+2026-10-14 14:19:13.532 | Process bitness: 32-bit
+2026-10-14 14:19:14.791 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-14 14:19:14.800 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 14:19:14.800 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 14:19:14.800 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 14:19:14.801 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 14:19:14.801 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 14:19:14.803 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 14:19:14.803 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 14:19:14.803 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 14:19:14.803 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 14:19:14.803 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 14:19:14.804 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 14:19:14.821 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 14:19:14.823 | LoadLocalBasemap ZoomToLayer OK
+2026-10-14 14:19:14.824 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 14:19:14.824 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-14 14:19:25.597 | StopHanoiOnlyMap: completed
+2026-10-14 14:19:25.692 | ===== END APPLICATION =====
+2026-10-14 14:48:50.915 | ===== START APPLICATION =====
+2026-10-14 14:48:50.916 | Process bitness: 32-bit
+2026-10-14 14:48:52.342 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-14 14:48:52.378 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 14:48:52.378 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 14:48:52.378 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 14:48:52.379 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 14:48:52.379 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 14:48:52.381 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 14:48:52.381 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 14:48:52.381 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 14:48:52.382 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 14:48:52.382 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 14:48:52.382 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 14:48:52.496 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 14:48:52.502 | LoadLocalBasemap ZoomToLayer OK
+2026-10-14 14:48:52.503 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 14:48:52.503 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-14 14:49:12.734 | StopHanoiOnlyMap: completed
+2026-10-14 14:49:12.835 | ===== END APPLICATION =====
+2026-10-14 18:41:02.811 | ===== START APPLICATION =====
+2026-10-14 18:41:02.814 | Process bitness: 32-bit
+2026-10-14 18:41:04.455 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-14 18:41:04.484 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 18:41:04.485 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 18:41:04.485 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 18:41:04.485 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 18:41:04.485 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 18:41:04.487 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 18:41:04.487 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 18:41:04.487 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 18:41:04.487 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 18:41:04.487 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 18:41:04.487 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 18:41:04.598 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 18:41:04.603 | LoadLocalBasemap ZoomToLayer OK
+2026-10-14 18:41:04.604 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 18:41:04.605 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-14 18:47:32.212 | ===== START APPLICATION =====
+2026-10-14 18:47:32.212 | Process bitness: 32-bit
+2026-10-14 18:47:33.539 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-14 18:47:33.555 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 18:47:33.555 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 18:47:33.555 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 18:47:33.555 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 18:47:33.555 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 18:47:33.555 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 18:47:33.555 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 18:47:33.555 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 18:47:33.555 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 18:47:33.555 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 18:47:33.555 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 18:47:33.666 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 18:47:33.666 | LoadLocalBasemap ZoomToLayer OK
+2026-10-14 18:47:33.666 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 18:47:33.666 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-14 18:56:37.733 | ===== START APPLICATION =====
+2026-10-14 18:56:37.740 | Process bitness: 32-bit
+2026-10-14 18:56:38.713 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-14 18:56:38.724 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 18:56:38.724 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 18:56:38.724 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 18:56:38.724 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 18:56:38.724 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 18:56:38.728 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 18:56:38.728 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 18:56:38.728 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 18:56:38.728 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 18:56:38.728 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 18:56:38.728 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 18:56:38.753 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 18:56:38.757 | LoadLocalBasemap ZoomToLayer OK
+2026-10-14 18:56:38.757 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 18:56:38.757 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-14 19:01:42.935 | ===== START APPLICATION =====
+2026-10-14 19:01:42.939 | Process bitness: 32-bit
+2026-10-14 19:01:43.755 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-14 19:01:43.768 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 19:01:43.768 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 19:01:43.770 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 19:01:43.770 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 19:01:43.770 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 19:01:43.772 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 19:01:43.772 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 19:01:43.772 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 19:01:43.772 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 19:01:43.772 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 19:01:43.772 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 19:01:43.793 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 19:01:43.795 | LoadLocalBasemap ZoomToLayer OK
+2026-10-14 19:01:43.797 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 19:01:43.798 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-14 19:01:51.056 | StopHanoiOnlyMap: completed
+2026-10-14 19:01:51.166 | ===== END APPLICATION =====
+2026-10-14 22:32:31.505 | ===== START APPLICATION =====
+2026-10-14 22:32:31.507 | Process bitness: 32-bit
+2026-10-14 22:32:32.795 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-14 22:32:32.828 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 22:32:32.828 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 22:32:32.828 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 22:32:32.828 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 22:32:32.828 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 22:32:32.828 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 22:32:32.828 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 22:32:32.828 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 22:32:32.828 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 22:32:32.828 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 22:32:32.828 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 22:32:33.002 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 22:32:33.002 | LoadLocalBasemap ZoomToLayer OK
+2026-10-14 22:32:33.002 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 22:32:33.002 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-14 22:32:45.197 | StopHanoiOnlyMap: completed
+2026-10-14 22:32:45.267 | ===== END APPLICATION =====
+2026-10-14 22:50:14.847 | ===== START APPLICATION =====
+2026-10-14 22:50:14.848 | Process bitness: 32-bit
+2026-10-14 22:50:15.983 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-14 22:50:16.003 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 22:50:16.003 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 22:50:16.003 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 22:50:16.003 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 22:50:16.003 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 22:50:16.018 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 22:50:16.018 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 22:50:16.018 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 22:50:16.018 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 22:50:16.018 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 22:50:16.018 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 22:50:16.155 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 22:50:16.159 | LoadLocalBasemap ZoomToLayer OK
+2026-10-14 22:50:16.160 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-14 22:50:16.161 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-14 22:50:28.606 | StopHanoiOnlyMap: completed
+2026-10-14 22:50:28.692 | ===== END APPLICATION =====
+2026-10-15 06:37:44.229 | ===== START APPLICATION =====
+2026-10-15 06:37:44.231 | Process bitness: 32-bit
+2026-10-15 06:37:45.500 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-15 06:37:45.543 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:37:45.543 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:37:45.543 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:37:45.543 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:37:45.544 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:37:45.547 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:37:45.547 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:37:45.548 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:37:45.548 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:37:45.548 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:37:45.548 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:37:45.660 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:37:45.663 | LoadLocalBasemap ZoomToLayer OK
+2026-10-15 06:37:45.664 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:37:45.665 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-15 06:37:50.182 | StopHanoiOnlyMap: completed
+2026-10-15 06:37:50.272 | ===== END APPLICATION =====
+2026-10-15 06:39:20.118 | ===== START APPLICATION =====
+2026-10-15 06:39:20.118 | Process bitness: 32-bit
+2026-10-15 06:39:21.028 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-15 06:39:21.039 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:39:21.039 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:39:21.039 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:39:21.039 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:39:21.039 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:39:21.042 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:39:21.042 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:39:21.042 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:39:21.042 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:39:21.043 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:39:21.043 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:39:21.046 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:39:21.046 | LoadLocalBasemap ZoomToLayer OK
+2026-10-15 06:39:21.062 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:39:21.062 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-15 06:39:31.854 | StopHanoiOnlyMap: completed
+2026-10-15 06:39:31.918 | ===== END APPLICATION =====
+2026-10-15 06:50:21.633 | ===== START APPLICATION =====
+2026-10-15 06:50:21.634 | Process bitness: 32-bit
+2026-10-15 06:50:24.826 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-15 06:50:24.878 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:50:24.878 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:50:24.878 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:50:24.878 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:50:24.878 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:50:24.878 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:50:24.878 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:50:24.878 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:50:24.878 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:50:24.878 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:50:24.878 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:50:25.208 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:50:25.208 | LoadLocalBasemap ZoomToLayer OK
+2026-10-15 06:50:25.208 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:50:25.208 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-15 06:50:35.439 | StopHanoiOnlyMap: completed
+2026-10-15 06:50:35.507 | ===== END APPLICATION =====
+2026-10-15 06:55:08.062 | ===== START APPLICATION =====
+2026-10-15 06:55:08.063 | Process bitness: 32-bit
+2026-10-15 06:55:08.886 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-15 06:55:08.898 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:55:08.898 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:55:08.898 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:55:08.898 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:55:08.898 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:55:08.901 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:55:08.902 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:55:08.902 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:55:08.902 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:55:08.902 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:55:08.902 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:55:08.925 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:55:08.925 | LoadLocalBasemap ZoomToLayer OK
+2026-10-15 06:55:08.925 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:55:08.925 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-15 06:55:28.392 | StopHanoiOnlyMap: completed
+2026-10-15 06:55:28.471 | ===== END APPLICATION =====
+2026-10-15 06:56:25.054 | ===== START APPLICATION =====
+2026-10-15 06:56:25.054 | Process bitness: 32-bit
+2026-10-15 06:56:25.903 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-15 06:56:25.903 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:56:25.903 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:56:25.903 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:56:25.903 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:56:25.903 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:56:25.919 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:56:25.919 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:56:25.919 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:56:25.919 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:56:25.919 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:56:25.919 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:56:25.934 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:56:25.934 | LoadLocalBasemap ZoomToLayer OK
+2026-10-15 06:56:25.934 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 06:56:25.934 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-15 07:04:01.409 | StopHanoiOnlyMap: completed
+2026-10-15 07:04:01.517 | ===== END APPLICATION =====
+2026-10-15 07:11:14.568 | ===== START APPLICATION =====
+2026-10-15 07:11:14.570 | Process bitness: 32-bit
+2026-10-15 07:11:15.871 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-15 07:11:15.886 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:11:15.886 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:11:15.886 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:11:15.886 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:11:15.886 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:11:15.888 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:11:15.889 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:11:15.889 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:11:15.889 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:11:15.889 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:11:15.889 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:11:15.916 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:11:15.918 | LoadLocalBasemap ZoomToLayer OK
+2026-10-15 07:11:15.918 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:11:15.918 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-15 07:11:30.227 | StopHanoiOnlyMap: completed
+2026-10-15 07:11:30.325 | ===== END APPLICATION =====
+2026-10-15 07:18:11.991 | ===== START APPLICATION =====
+2026-10-15 07:18:11.992 | Process bitness: 32-bit
+2026-10-15 07:18:12.816 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-15 07:18:12.846 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:18:12.846 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:18:12.846 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:18:12.847 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:18:12.847 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:18:12.849 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:18:12.850 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:18:12.850 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:18:12.850 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:18:12.850 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:18:12.850 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:18:12.954 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:18:12.959 | LoadLocalBasemap ZoomToLayer OK
+2026-10-15 07:18:12.960 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:18:12.960 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-15 07:44:48.134 | ===== START APPLICATION =====
+2026-10-15 07:44:48.135 | Process bitness: 32-bit
+2026-10-15 07:44:49.311 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-15 07:44:49.325 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:44:49.326 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:44:49.326 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:44:49.326 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:44:49.326 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:44:49.328 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:44:49.328 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:44:49.328 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:44:49.328 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:44:49.328 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:44:49.328 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:44:49.348 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:44:49.356 | LoadLocalBasemap ZoomToLayer OK
+2026-10-15 07:44:49.357 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:44:49.358 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-15 07:51:06.342 | ===== START APPLICATION =====
+2026-10-15 07:51:06.343 | Process bitness: 32-bit
+2026-10-15 07:51:07.566 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-15 07:51:07.574 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:51:07.574 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:51:07.574 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:51:07.574 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:51:07.574 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:51:07.574 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:51:07.574 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:51:07.574 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:51:07.574 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:51:07.574 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:51:07.574 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:51:07.606 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:51:07.606 | LoadLocalBasemap ZoomToLayer OK
+2026-10-15 07:51:07.606 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 07:51:07.606 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-15 08:14:25.769 | ===== START APPLICATION =====
+2026-10-15 08:14:25.770 | Process bitness: 32-bit
+2026-10-15 08:14:27.124 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-15 08:14:27.142 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:14:27.142 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:14:27.142 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:14:27.142 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:14:27.142 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:14:27.151 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:14:27.151 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:14:27.151 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:14:27.151 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:14:27.152 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:14:27.152 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:14:27.189 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:14:27.191 | LoadLocalBasemap ZoomToLayer OK
+2026-10-15 08:14:27.192 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:14:27.192 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-15 08:21:33.937 | ===== START APPLICATION =====
+2026-10-15 08:21:33.939 | Process bitness: 32-bit
+2026-10-15 08:21:35.072 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-15 08:21:35.086 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:21:35.087 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:21:35.087 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:21:35.087 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:21:35.087 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:21:35.089 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:21:35.089 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:21:35.089 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:21:35.090 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:21:35.090 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:21:35.090 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:21:35.122 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:21:35.125 | LoadLocalBasemap ZoomToLayer OK
+2026-10-15 08:21:35.126 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:21:35.126 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-15 08:21:44.301 | StopHanoiOnlyMap: completed
+2026-10-15 08:21:44.419 | ===== END APPLICATION =====
+2026-10-15 08:21:46.640 | ===== START APPLICATION =====
+2026-10-15 08:21:46.641 | Process bitness: 32-bit
+2026-10-15 08:21:47.368 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-15 08:21:47.381 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:21:47.382 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:21:47.382 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:21:47.382 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:21:47.382 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:21:47.383 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:21:47.384 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:21:47.384 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:21:47.384 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:21:47.384 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:21:47.384 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:21:47.401 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:21:47.404 | LoadLocalBasemap ZoomToLayer OK
+2026-10-15 08:21:47.405 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:21:47.406 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-15 08:34:43.563 | ===== START APPLICATION =====
+2026-10-15 08:34:43.565 | Process bitness: 32-bit
+2026-10-15 08:34:44.391 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-15 08:34:44.391 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:34:44.391 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:34:44.391 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:34:44.391 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:34:44.391 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:34:44.407 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:34:44.407 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:34:44.407 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:34:44.407 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:34:44.407 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:34:44.407 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:34:44.422 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:34:44.438 | LoadLocalBasemap ZoomToLayer OK
+2026-10-15 08:34:44.438 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:34:44.438 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-15 08:39:56.297 | ===== START APPLICATION =====
+2026-10-15 08:39:56.298 | Process bitness: 32-bit
+2026-10-15 08:39:57.356 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-15 08:39:57.371 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:39:57.371 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:39:57.371 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:39:57.371 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:39:57.371 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:39:57.374 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:39:57.374 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:39:57.375 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:39:57.375 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:39:57.375 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:39:57.375 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:39:57.401 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:39:57.405 | LoadLocalBasemap ZoomToLayer OK
+2026-10-15 08:39:57.406 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:39:57.407 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-15 08:40:23.519 | ===== START APPLICATION =====
+2026-10-15 08:40:23.521 | Process bitness: 32-bit
+2026-10-15 08:40:24.560 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-15 08:40:24.570 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:40:24.571 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:40:24.571 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:40:24.571 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:40:24.571 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:40:24.573 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:40:24.573 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:40:24.573 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:40:24.573 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:40:24.574 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:40:24.574 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:40:24.589 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:40:24.592 | LoadLocalBasemap ZoomToLayer OK
+2026-10-15 08:40:24.595 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 08:40:24.595 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-15 08:40:29.293 | StopHanoiOnlyMap: completed
+2026-10-15 08:40:29.399 | ===== END APPLICATION =====
+2026-10-15 09:16:03.093 | ===== START APPLICATION =====
+2026-10-15 09:16:03.093 | Process bitness: 32-bit
+2026-10-15 09:16:04.409 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-15 09:16:04.455 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:16:04.455 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:16:04.455 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:16:04.456 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:16:04.456 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:16:04.459 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:16:04.460 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:16:04.460 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:16:04.460 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:16:04.460 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:16:04.460 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:16:04.568 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:16:04.574 | LoadLocalBasemap ZoomToLayer OK
+2026-10-15 09:16:04.575 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:16:04.575 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-15 09:16:08.457 | StopHanoiOnlyMap: completed
+2026-10-15 09:16:08.595 | ===== END APPLICATION =====
+2026-10-15 09:21:22.151 | ===== START APPLICATION =====
+2026-10-15 09:21:22.152 | Process bitness: 32-bit
+2026-10-15 09:21:23.431 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-15 09:21:23.444 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:21:23.445 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:21:23.445 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:21:23.445 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:21:23.445 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:21:23.447 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:21:23.448 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:21:23.448 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:21:23.448 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:21:23.448 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:21:23.448 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:21:23.472 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:21:23.480 | LoadLocalBasemap ZoomToLayer OK
+2026-10-15 09:21:23.481 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:21:23.481 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-15 09:25:04.868 | ===== START APPLICATION =====
+2026-10-15 09:25:04.869 | Process bitness: 32-bit
+2026-10-15 09:25:06.093 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-15 09:25:06.105 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:25:06.106 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:25:06.106 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:25:06.106 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:25:06.106 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:25:06.108 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:25:06.108 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:25:06.110 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:25:06.110 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:25:06.110 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:25:06.110 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:25:06.129 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:25:06.132 | LoadLocalBasemap ZoomToLayer OK
+2026-10-15 09:25:06.133 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:25:06.134 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-15 09:30:09.531 | ===== START APPLICATION =====
+2026-10-15 09:30:09.535 | Process bitness: 32-bit
+2026-10-15 09:30:10.455 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-15 09:30:10.467 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:30:10.467 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:30:10.467 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:30:10.467 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:30:10.467 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:30:10.470 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:30:10.471 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:30:10.471 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:30:10.471 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:30:10.471 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:30:10.471 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:30:10.491 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:30:10.491 | LoadLocalBasemap ZoomToLayer OK
+2026-10-15 09:30:10.494 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:30:10.495 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-15 09:30:19.541 | StopHanoiOnlyMap: completed
+2026-10-15 09:30:19.630 | ===== END APPLICATION =====
+2026-10-15 09:49:09.706 | ===== START APPLICATION =====
+2026-10-15 09:49:09.707 | Process bitness: 32-bit
+2026-10-15 09:49:10.599 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-15 09:49:10.612 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:49:10.612 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:49:10.613 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:49:10.613 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:49:10.613 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:49:10.616 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:49:10.617 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:49:10.617 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:49:10.617 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:49:10.617 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:49:10.618 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:49:10.635 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:49:10.637 | LoadLocalBasemap ZoomToLayer OK
+2026-10-15 09:49:10.638 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:49:10.639 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-15 09:54:05.195 | ===== START APPLICATION =====
+2026-10-15 09:54:05.196 | Process bitness: 32-bit
+2026-10-15 09:54:06.073 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-15 09:54:06.087 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:54:06.087 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:54:06.087 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:54:06.087 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:54:06.087 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:54:06.089 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:54:06.089 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:54:06.089 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:54:06.089 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:54:06.090 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:54:06.090 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:54:06.117 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:54:06.119 | LoadLocalBasemap ZoomToLayer OK
+2026-10-15 09:54:06.119 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:54:06.121 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-15 09:54:40.248 | StopHanoiOnlyMap: completed
+2026-10-15 09:54:40.311 | ===== END APPLICATION =====
+2026-10-15 09:54:47.626 | ===== START APPLICATION =====
+2026-10-15 09:54:47.626 | Process bitness: 32-bit
+2026-10-15 09:54:48.498 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-15 09:54:48.509 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:54:48.509 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:54:48.510 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:54:48.510 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:54:48.510 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:54:48.510 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:54:48.510 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:54:48.510 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:54:48.510 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:54:48.510 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:54:48.510 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:54:48.526 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:54:48.526 | LoadLocalBasemap ZoomToLayer OK
+2026-10-15 09:54:48.526 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:54:48.526 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-15 09:55:06.445 | StopHanoiOnlyMap: completed
+2026-10-15 09:55:06.528 | ===== END APPLICATION =====
+2026-10-15 09:58:48.493 | ===== START APPLICATION =====
+2026-10-15 09:58:48.494 | Process bitness: 32-bit
+2026-10-15 09:58:49.342 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-15 09:58:49.374 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:58:49.374 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:58:49.374 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:58:49.374 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:58:49.374 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:58:49.378 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:58:49.378 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:58:49.378 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:58:49.378 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:58:49.378 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:58:49.378 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:58:49.508 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:58:49.516 | LoadLocalBasemap ZoomToLayer OK
+2026-10-15 09:58:49.517 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 09:58:49.517 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-15 10:03:44.045 | ===== START APPLICATION =====
+2026-10-15 10:03:44.045 | Process bitness: 32-bit
+2026-10-15 10:03:44.922 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-15 10:03:44.927 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 10:03:44.927 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 10:03:44.927 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 10:03:44.927 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 10:03:44.927 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 10:03:44.933 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 10:03:44.934 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 10:03:44.934 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 10:03:44.934 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 10:03:44.934 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 10:03:44.934 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 10:03:44.954 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 10:03:44.954 | LoadLocalBasemap ZoomToLayer OK
+2026-10-15 10:03:44.954 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 10:03:44.954 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-15 10:03:51.921 | StopHanoiOnlyMap: completed
+2026-10-15 10:03:52.024 | ===== END APPLICATION =====
+2026-10-15 10:10:31.253 | ===== START APPLICATION =====
+2026-10-15 10:10:31.253 | Process bitness: 32-bit
+2026-10-15 10:10:32.287 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-15 10:10:32.299 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 10:10:32.300 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 10:10:32.300 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 10:10:32.300 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 10:10:32.300 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 10:10:32.300 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 10:10:32.300 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 10:10:32.300 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 10:10:32.300 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 10:10:32.300 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 10:10:32.300 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 10:10:32.323 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 10:10:32.331 | LoadLocalBasemap ZoomToLayer OK
+2026-10-15 10:10:32.331 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 10:10:32.331 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-15 10:11:31.483 | StopHanoiOnlyMap: completed
+2026-10-15 10:11:31.635 | ===== END APPLICATION =====
+2026-10-15 10:59:26.359 | ===== START APPLICATION =====
+2026-10-15 10:59:26.359 | Process bitness: 32-bit
+2026-10-15 10:59:27.397 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-15 10:59:27.423 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 10:59:27.423 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 10:59:27.423 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 10:59:27.423 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 10:59:27.423 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 10:59:27.423 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 10:59:27.423 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 10:59:27.423 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 10:59:27.423 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 10:59:27.423 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 10:59:27.423 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 10:59:27.541 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 10:59:27.549 | LoadLocalBasemap ZoomToLayer OK
+2026-10-15 10:59:27.549 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 10:59:27.549 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-15 11:05:20.594 | StopHanoiOnlyMap: completed
+2026-10-15 11:05:20.848 | ===== END APPLICATION =====
+2026-10-15 15:09:54.922 | ===== START APPLICATION =====
+2026-10-15 15:09:54.924 | Process bitness: 32-bit
+2026-10-15 15:09:56.032 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-15 15:09:56.060 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:09:56.061 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:09:56.061 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:09:56.061 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:09:56.061 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:09:56.064 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:09:56.064 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:09:56.064 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:09:56.064 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:09:56.065 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:09:56.065 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:09:56.173 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:09:56.176 | LoadLocalBasemap ZoomToLayer OK
+2026-10-15 15:09:56.177 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:09:56.177 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-15 15:16:33.496 | ===== START APPLICATION =====
+2026-10-15 15:16:33.498 | Process bitness: 32-bit
+2026-10-15 15:16:34.424 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-15 15:16:34.444 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:16:34.444 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:16:34.444 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:16:34.445 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:16:34.445 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:16:34.447 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:16:34.448 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:16:34.448 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:16:34.448 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:16:34.448 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:16:34.448 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:16:34.503 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:16:34.507 | LoadLocalBasemap ZoomToLayer OK
+2026-10-15 15:16:34.509 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:16:34.510 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-15 15:17:27.110 | ===== START APPLICATION =====
+2026-10-15 15:17:27.111 | Process bitness: 32-bit
+2026-10-15 15:17:27.868 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-15 15:17:27.876 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:17:27.876 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:17:27.876 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:17:27.877 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:17:27.877 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:17:27.878 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:17:27.878 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:17:27.879 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:17:27.879 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:17:27.879 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:17:27.879 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:17:27.894 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:17:27.896 | LoadLocalBasemap ZoomToLayer OK
+2026-10-15 15:17:27.896 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:17:27.897 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-15 15:25:22.548 | ===== START APPLICATION =====
+2026-10-15 15:25:22.549 | Process bitness: 32-bit
+2026-10-15 15:25:23.385 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-15 15:25:23.398 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:25:23.399 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:25:23.399 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:25:23.399 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:25:23.399 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:25:23.402 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:25:23.402 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:25:23.402 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:25:23.403 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:25:23.403 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:25:23.403 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:25:23.424 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:25:23.427 | LoadLocalBasemap ZoomToLayer OK
+2026-10-15 15:25:23.428 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:25:23.429 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-15 15:25:31.331 | StopHanoiOnlyMap: completed
+2026-10-15 15:25:31.414 | ===== END APPLICATION =====
+2026-10-15 15:38:05.438 | ===== START APPLICATION =====
+2026-10-15 15:38:05.440 | Process bitness: 32-bit
+2026-10-15 15:38:06.411 | InitHanoiOnlyMap EPSG:32648: begin
+2026-10-15 15:38:06.443 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:38:06.444 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:38:06.444 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:38:06.444 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:38:06.444 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:38:06.447 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Debug\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:38:06.448 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\bin\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:38:06.448 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:38:06.448 | FindBasemapFile checking: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:38:06.448 | FindBasemapFile FOUND: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:38:06.448 | LoadLocalBasemap begin: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:38:06.574 | LoadLocalBasemap Image.Open OK: D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:38:06.579 | LoadLocalBasemap ZoomToLayer OK
+2026-10-15 15:38:06.580 | LoadLocalBasemap OK | handle=0 | D:\aNAM5\HK1\HeQuanTriCSDLKG\MapWinGIS_TOI\Basemaps\HANOI_SATELLITE_2M_32648.tif
+2026-10-15 15:38:06.581 | InitHanoiOnlyMap EPSG:32648: OK | Satellite=True
+2026-10-15 15:38:17.661 | StopHanoiOnlyMap: completed
+2026-10-15 15:38:17.786 | ===== END APPLICATION =====
